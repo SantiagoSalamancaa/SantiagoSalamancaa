@@ -8,7 +8,7 @@
 
 <div>
 <img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api?username=SantiagoSalamancaa&show_icons=true&theme=radical" style="width: 40%, float: left" alt="SantiagoSalamancaa"/>
-<img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSalamancaa&layout=compact&theme=radical" style="width=40%"alt="SantiagoSalamancaa"/>
+<img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSalamancaa&layout=compact&theme=radical" style="width=30%"alt="SantiagoSalamancaa"/>
 <div/>
 
 <div>
