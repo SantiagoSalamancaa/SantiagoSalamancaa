@@ -9,7 +9,7 @@
 <div>
 <img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api?username=SantiagoSalamancaa&show_icons=true&theme=radical" style="width: 40%, float: left" alt="SantiagoSalamancaa"/>
 <img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSalamancaa&layout=compact&theme=radical" style="width=30%"alt="SantiagoSalamancaa"/>
-<div/>
+</div>
 
 <div>
 <h1>Languages and tools</h1>
@@ -23,7 +23,7 @@
 <a href="https://www.javascript.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="JavaScript" with=
 "40" height="40"/></a>
 </p>
-<div/>
+</div>
 
 <div>
 <h2 aling="left">Connect with me<h2/>
@@ -34,9 +34,7 @@
 "40" height="40"/></a>
 <a href="https://www.javascript.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="JavaScript" with=
 "40" height="40"/></a>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SantiagoSalamancaa&color=blue"/>
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=SantiagoSalamancaa&color=blue"/></p>
 </p>
 
-<div/>
+</div>
