@@ -22,11 +22,11 @@
 <div>
 <h2 aling="left">Connect with me<h2/>
 <p align ="center"> 
-<a href="https://www.javascript.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="JavaScript" with=
+<a href="https://www.instagram/xsantiago.s" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="JavaScript" with=
 "40" height="40"/></a>
-<a href="https://www.javascript.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JavaScript" with=
+<a href="https://x.com/xsantiago.s" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JavaScript" with=
 "40" height="40"/></a>
-<a href="https://www.javascript.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="JavaScript" with=
+<a href="https://www.discord.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="JavaScript" with=
 "40" height="40"/></a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SantiagoSalamancaa&color=blue"/></p>
 </p>
