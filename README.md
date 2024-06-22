@@ -3,13 +3,8 @@
 
 * I am expanding my knowledge :computer:
 
-*
-
-
 <div>
 <img align="center" source media="(prefers-color-scheme:dark)" src="https://github-readme-stats.vercel.app/api?username=SantiagoSalamancaa&show_icons=true&theme=radical" style="width: 40%, float: left" alt="SantiagoSalamancaa"/>
-
-
 <div>
 <h1>Languages and tools</h1>
 <p align="center">
