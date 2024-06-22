@@ -22,9 +22,9 @@
 <div>
 <h2 aling="left">Connect with me<h2/>
 <p align ="center"> 
-<a href="https://www.instagram/xsantiago.s" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="JavaScript" with=
+<a href="https://www.instagram.com/xsantiago.s/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="JavaScript" with=
 "40" height="40"/></a>
-<a href="https://x.com/xsantiago.s" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JavaScript" with=
+<a href="https://x.com/xsantiagos/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JavaScript" with=
 "40" height="40"/></a>
 <a href="https://www.discord.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="JavaScript" with=
 "40" height="40"/></a>
