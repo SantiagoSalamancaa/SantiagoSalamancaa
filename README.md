@@ -1,4 +1,4 @@
-<h1 align="center">Hi:smiling_imp:,Im Santiago Salamanca</h1>
+<h1 align="center">Im Santiago Salamanca</h1>
 <h3 align="center">I am a systems engineering student </h3>
 
 * I am expanding my knowledge :computer:
